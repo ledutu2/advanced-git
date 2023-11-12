@@ -1,5 +1,5 @@
 const gitTwo = () => {
-  console.log('test git 2');
+  console.log('test asdasd 2');
 };
 
 gitTwo();
