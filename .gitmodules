@@ -1,3 +1,6 @@
 [submodule "lib/git-submodule"]
 	path = lib/git-submodule
 	url = https://github.com/ledutu2/git-submodule.git
+[submodule "lib/--force"]
+	path = lib/--force
+	url = https://github.com/ledutu2/git-submodule.git
