@@ -1,0 +1,3 @@
+[submodule "lib/git-submodule"]
+	path = lib/git-submodule
+	url = https://github.com/ledutu2/git-submodule.git
